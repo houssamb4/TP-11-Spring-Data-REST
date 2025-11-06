@@ -112,3 +112,7 @@ Recherche tous les comptes de type COURANT :
 ```
 GET http://localhost:8080/api/comptes/search/byType?t=COURANT
 ```
+
+## Demo Video
+
+https://github.com/user-attachments/assets/fd4b5f63-aad8-45a9-a672-6205c05531c9
